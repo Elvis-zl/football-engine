@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:50:25.588869+00:00",
+  "generated_at": "2026-10-13T21:45:30.115051+00:00",
   "parlay": {
     "n_tickets": 115,
     "n_pending": 0,
@@ -32,35 +32,35 @@
   },
   "score_parlay": {
     "n_tickets": 195,
-    "n_pending": 5,
-    "n_settled": 190,
+    "n_pending": 0,
+    "n_settled": 195,
     "n_won": 0,
     "hit_rate": 0.0,
-    "stake": 590.0,
+    "stake": 606.0,
     "stake_committed": 606.0,
-    "stake_pending": 16.0,
+    "stake_pending": 0,
     "return": 0.0,
     "roi": -1.0,
-    "avg_odds": 822.25,
+    "avg_odds": 903.69,
     "by_type": {
       "比分2串1": {
-        "n": 120,
+        "n": 123,
         "won": 0,
         "roi": -1.0
       },
       "比分3串1": {
-        "n": 35,
+        "n": 36,
         "won": 0,
         "roi": -1.0
       },
       "比分3串4(容错)": {
-        "n": 35,
+        "n": 36,
         "won": 0,
         "roi": -1.0
       }
     },
-    "leg_hit_rate": 0.0969,
-    "n_legs_settled": 454
+    "leg_hit_rate": 0.0952,
+    "n_legs_settled": 462
   },
   "tickets": {
     "parlay": [
@@ -12133,12 +12133,12 @@
         "potential": 1428.0,
         "total_odds": 714.0,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "两场比分都中才赢（校准命中 0.4% × 赔率 714 倍 = EV +208%）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
-          null,
-          null
+          false,
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -12149,7 +12149,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 21.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-13_周二009",
@@ -12158,7 +12158,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 34.0,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -12169,12 +12169,12 @@
         "potential": 884.0,
         "total_odds": 442.0,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "两场比分都中才赢（校准命中 0.6% × 赔率 442 倍 = EV +180%）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
           false,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -12194,7 +12194,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 34.0,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -12205,12 +12205,12 @@
         "potential": 546.0,
         "total_odds": 273.0,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "两场比分都中才赢（校准命中 0.6% × 赔率 273 倍 = EV +73%）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
           false,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -12230,7 +12230,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 21.0,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -12241,13 +12241,13 @@
         "potential": 18564.0,
         "total_odds": 9282.0,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "三场比分全中才赢（赔率 9282 倍，校准命中 0.04%）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
           false,
-          null,
-          null
+          false,
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -12267,7 +12267,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 21.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-13_周二009",
@@ -12276,7 +12276,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 34.0,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -12287,13 +12287,13 @@
         "potential": 21422.0,
         "total_odds": 9282.0,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "0/4注中（命中0场）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
           false,
-          null,
-          null
+          false,
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -12313,7 +12313,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 21.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-10-13_周二009",
@@ -12322,7 +12322,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 34.0,
-            "hit": null
+            "hit": false
           }
         ]
       }
@@ -27377,19 +27377,35 @@
       "score_parlay": {
         "stats": {
           "n_tickets": 5,
-          "n_pending": 5,
-          "n_settled": 0,
+          "n_pending": 0,
+          "n_settled": 5,
           "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
+          "hit_rate": 0.0,
+          "stake": 16.0,
           "stake_committed": 16.0,
-          "stake_pending": 16.0,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {},
+          "stake_pending": 0,
+          "return": 0.0,
+          "roi": -1.0,
+          "avg_odds": 3998.6,
+          "by_type": {
+            "比分2串1": {
+              "n": 3,
+              "won": 0,
+              "roi": -1.0
+            },
+            "比分3串1": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            },
+            "比分3串4(容错)": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            }
+          },
           "leg_hit_rate": 0.0,
-          "n_legs_settled": 4
+          "n_legs_settled": 12
         },
         "tickets": [
           {
@@ -27399,12 +27415,12 @@
             "potential": 1428.0,
             "total_odds": 714.0,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "两场比分都中才赢（校准命中 0.4% × 赔率 714 倍 = EV +208%）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
-              null,
-              null
+              false,
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -27415,7 +27431,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 21.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-10-13_周二009",
@@ -27424,7 +27440,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 34.0,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -27435,12 +27451,12 @@
             "potential": 884.0,
             "total_odds": 442.0,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "两场比分都中才赢（校准命中 0.6% × 赔率 442 倍 = EV +180%）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
               false,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -27460,7 +27476,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 34.0,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -27471,12 +27487,12 @@
             "potential": 546.0,
             "total_odds": 273.0,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "两场比分都中才赢（校准命中 0.6% × 赔率 273 倍 = EV +73%）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
               false,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -27496,7 +27512,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 21.0,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -27507,13 +27523,13 @@
             "potential": 18564.0,
             "total_odds": 9282.0,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "三场比分全中才赢（赔率 9282 倍，校准命中 0.04%）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
               false,
-              null,
-              null
+              false,
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -27533,7 +27549,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 21.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-10-13_周二009",
@@ -27542,7 +27558,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 34.0,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -27553,13 +27569,13 @@
             "potential": 21422.0,
             "total_odds": 9282.0,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "0/4注中（命中0场）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
               false,
-              null,
-              null
+              false,
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -27579,7 +27595,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 21.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-10-13_周二009",
@@ -27588,7 +27604,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 34.0,
-                "hit": null
+                "hit": false
               }
             ]
           }

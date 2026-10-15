@@ -600,10 +600,10 @@
     "rest_days": 3
   },
   "利物浦": {
-    "elo": 1830.1,
-    "attack": 0.7505,
-    "defense": 0.6004,
-    "form": 0.4256,
+    "elo": 1848.1,
+    "attack": 0.8884,
+    "defense": 0.6474,
+    "form": 0.5979,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -672,10 +672,10 @@
     "rest_days": 3
   },
   "南安普敦": {
-    "elo": 1474.9,
-    "attack": 0.7208,
-    "defense": 1.3476,
-    "form": -0.0566,
+    "elo": 1487.3,
+    "attack": 0.6857,
+    "defense": 1.2162,
+    "form": 0.2604,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -784,10 +784,10 @@
     "rest_days": 3
   },
   "曼彻斯特城": {
-    "elo": 1984.7,
-    "attack": 1.3791,
-    "defense": 0.7571,
-    "form": -0.2139,
+    "elo": 1934.9,
+    "attack": 1.315,
+    "defense": 0.824,
+    "form": -0.4497,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -824,10 +824,10 @@
     "rest_days": 3
   },
   "诺维奇": {
-    "elo": 1330.1,
-    "attack": 0.4586,
-    "defense": 1.3176,
-    "form": -0.8348,
+    "elo": 1317.7,
+    "attack": 0.4139,
+    "defense": 1.2243,
+    "form": -0.8844,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5856,10 +5856,10 @@
     "rest_days": 3
   },
   "LASK林茨": {
-    "elo": 1541.5,
-    "attack": 0.9974,
-    "defense": 1.1908,
-    "form": -0.3912,
+    "elo": 1523.5,
+    "attack": 1.0057,
+    "defense": 1.2858,
+    "form": -0.5738,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6400,10 +6400,10 @@
     "rest_days": 3
   },
   "巴黎圣曼": {
-    "elo": 1728.9,
-    "attack": 1.2022,
-    "defense": 0.8381,
-    "form": 0.2168,
+    "elo": 1778.7,
+    "attack": 1.2257,
+    "defense": 0.8268,
+    "form": 0.4518,
     "injury": 0.0,
     "rest_days": 3
   },

@@ -52,5 +52,32 @@
     "away_team": "奥斯",
     "half_home_score": 2,
     "half_away_score": 0
+  },
+  {
+    "match_id": "3763572",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "法兰克福",
+    "away_team": "科隆",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3744986",
+    "home_score": 4,
+    "away_score": 2,
+    "home_team": "弗罗西诺内",
+    "away_team": "萨索洛",
+    "half_home_score": 3,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "3747043",
+    "home_score": 0,
+    "away_score": 3,
+    "home_team": "勒芒",
+    "away_team": "图卢兹",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]

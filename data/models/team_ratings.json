@@ -1424,10 +1424,10 @@
     "rest_days": 3
   },
   "图卢兹": {
-    "elo": 1557.0,
-    "attack": 0.7907,
-    "defense": 0.9708,
-    "form": -0.2919,
+    "elo": 1600.6,
+    "attack": 0.8192,
+    "defense": 0.8761,
+    "form": 0.0957,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2056,10 +2056,10 @@
     "rest_days": 3
   },
   "科隆": {
-    "elo": 1497.5,
-    "attack": 0.8308,
-    "defense": 1.1602,
-    "form": -0.04,
+    "elo": 1485.0,
+    "attack": 0.7498,
+    "defense": 1.0823,
+    "form": -0.328,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2072,10 +2072,10 @@
     "rest_days": 3
   },
   "法兰克福": {
-    "elo": 1510.2,
-    "attack": 0.9261,
-    "defense": 1.2816,
-    "form": -0.3206,
+    "elo": 1522.7,
+    "attack": 0.871,
+    "defense": 1.1566,
+    "form": 0.0756,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2344,10 +2344,10 @@
     "rest_days": 3
   },
   "萨索洛": {
-    "elo": 1567.7,
-    "attack": 0.7015,
-    "defense": 0.8038,
-    "form": -0.0917,
+    "elo": 1545.6,
+    "attack": 0.7035,
+    "defense": 0.8662,
+    "form": -0.3642,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10168,10 +10168,10 @@
     "rest_days": 3
   },
   "弗罗西诺内": {
-    "elo": 1585.3,
-    "attack": 0.744,
-    "defense": 0.716,
-    "form": 0.028,
+    "elo": 1607.4,
+    "attack": 0.8122,
+    "defense": 0.7166,
+    "form": 0.3196,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10384,10 +10384,10 @@
     "rest_days": 3
   },
   "勒芒": {
-    "elo": 1509.1,
-    "attack": 0.9729,
-    "defense": 0.9729,
-    "form": 0.0,
+    "elo": 1465.5,
+    "attack": 0.878,
+    "defense": 0.9836,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },

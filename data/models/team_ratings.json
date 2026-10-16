@@ -1272,10 +1272,10 @@
     "rest_days": 3
   },
   "SBV精英": {
-    "elo": 1499.3,
-    "attack": 0.9898,
-    "defense": 1.0204,
-    "form": 0.059,
+    "elo": 1454.8,
+    "attack": 0.8933,
+    "defense": 1.0617,
+    "form": -0.2587,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1296,10 +1296,10 @@
     "rest_days": 3
   },
   "海伦芬": {
-    "elo": 1498.3,
-    "attack": 0.8725,
-    "defense": 0.925,
-    "form": -0.4172,
+    "elo": 1542.8,
+    "attack": 0.9282,
+    "defense": 0.8348,
+    "form": 0.008,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9312,10 +9312,10 @@
     "rest_days": 3
   },
   "奥斯": {
-    "elo": 1473.0,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1461.6,
+    "attack": 0.8815,
+    "defense": 0.9484,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9896,10 +9896,10 @@
     "rest_days": 3
   },
   "登博思": {
-    "elo": 1509.8,
-    "attack": 0.922,
-    "defense": 0.8653,
-    "form": -0.0459,
+    "elo": 1521.2,
+    "attack": 0.9025,
+    "defense": 0.8161,
+    "form": 0.2679,
     "injury": 0.0,
     "rest_days": 3
   },

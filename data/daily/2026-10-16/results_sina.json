@@ -48,5 +48,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3634353",
+    "match_no": "周五003",
+    "home_team": "布鲁马波卡纳",
+    "away_team": "佐加顿斯",
+    "home_score": 0,
+    "away_score": 2,
+    "half_home_score": 0,
+    "half_away_score": 1,
+    "league": "瑞典超",
+    "match_time": "2026-10-17 01:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 6.16,
+    "odds_draw": 4.9,
+    "odds_away": 1.31,
+    "corner_home": "5",
+    "corner_away": "2",
+    "yellow_home": "3",
+    "yellow_away": "0",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

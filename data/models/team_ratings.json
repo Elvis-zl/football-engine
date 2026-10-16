@@ -5640,10 +5640,10 @@
     "rest_days": 3
   },
   "佐加顿斯": {
-    "elo": 1723.2,
-    "attack": 0.9225,
-    "defense": 0.2027,
-    "form": 0.8233,
+    "elo": 1738.4,
+    "attack": 0.9029,
+    "defense": 0.1829,
+    "form": 0.8763,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10376,10 +10376,10 @@
     "rest_days": 3
   },
   "布鲁马波卡纳": {
-    "elo": 1479.7,
-    "attack": 0.9377,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1464.5,
+    "attack": 0.8463,
+    "defense": 0.9802,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },

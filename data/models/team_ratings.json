@@ -656,10 +656,10 @@
     "rest_days": 3
   },
   "AC米兰": {
-    "elo": 1734.8,
-    "attack": 0.8009,
-    "defense": 0.5316,
-    "form": 0.3847,
+    "elo": 1774.6,
+    "attack": 0.8636,
+    "defense": 0.4798,
+    "form": 0.5693,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -888,10 +888,10 @@
     "rest_days": 3
   },
   "萨尔茨堡": {
-    "elo": 1573.9,
-    "attack": 0.7527,
-    "defense": 1.0571,
-    "form": 0.4167,
+    "elo": 1534.1,
+    "attack": 0.6793,
+    "defense": 1.0948,
+    "form": -0.0083,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1560,10 +1560,10 @@
     "rest_days": 3
   },
   "桑德兰": {
-    "elo": 1689.5,
-    "attack": 0.6335,
-    "defense": 0.7614,
-    "form": 0.2415,
+    "elo": 1699.2,
+    "attack": 0.6421,
+    "defense": 0.7223,
+    "form": 0.469,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2232,10 +2232,10 @@
     "rest_days": 3
   },
   "赫塔费": {
-    "elo": 1612.0,
-    "attack": 0.6284,
-    "defense": 0.703,
-    "form": 0.1555,
+    "elo": 1609.4,
+    "attack": 0.6023,
+    "defense": 0.6696,
+    "form": 0.1088,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5512,10 +5512,10 @@
     "rest_days": 3
   },
   "克拉约瓦": {
-    "elo": 1489.2,
-    "attack": 0.8497,
-    "defense": 0.9483,
-    "form": -0.357,
+    "elo": 1491.8,
+    "attack": 0.802,
+    "defense": 0.891,
+    "form": -0.2499,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6256,10 +6256,10 @@
     "rest_days": 3
   },
   "托林斯": {
-    "elo": 1480.9,
-    "attack": 0.9213,
-    "defense": 0.9349,
-    "form": -0.1467,
+    "elo": 1471.2,
+    "attack": 0.8667,
+    "defense": 0.9141,
+    "form": -0.4027,
     "injury": 0.0,
     "rest_days": 3
   },

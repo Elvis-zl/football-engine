@@ -1840,10 +1840,10 @@
     "rest_days": 3
   },
   "伯恩利": {
-    "elo": 1448.0,
-    "attack": 0.6432,
-    "defense": 1.2454,
-    "form": -0.3876,
+    "elo": 1433.9,
+    "attack": 0.6157,
+    "defense": 1.1943,
+    "form": -0.5713,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2168,10 +2168,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1526.7,
-    "attack": 0.7375,
-    "defense": 0.7359,
-    "form": -0.3246,
+    "elo": 1524.8,
+    "attack": 0.7008,
+    "defense": 0.6993,
+    "form": -0.2272,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2256,10 +2256,10 @@
     "rest_days": 3
   },
   "莱万特": {
-    "elo": 1550.1,
-    "attack": 0.797,
-    "defense": 0.9927,
-    "form": -0.3088,
+    "elo": 1552.0,
+    "attack": 0.7545,
+    "defense": 0.9311,
+    "form": -0.2162,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3520,10 +3520,10 @@
     "rest_days": 3
   },
   "狼队": {
-    "elo": 1554.2,
-    "attack": 0.6904,
-    "defense": 1.0167,
-    "form": 0.2034,
+    "elo": 1568.3,
+    "attack": 0.6935,
+    "defense": 0.9528,
+    "form": 0.4424,
     "injury": 0.0,
     "rest_days": 3
   },

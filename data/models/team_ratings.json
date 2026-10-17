@@ -728,10 +728,10 @@
     "rest_days": 3
   },
   "国际米兰": {
-    "elo": 1908.9,
-    "attack": 1.5492,
-    "defense": 0.8552,
-    "form": -0.0133,
+    "elo": 1921.0,
+    "attack": 1.5037,
+    "defense": 0.807,
+    "form": 0.2907,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4576,10 +4576,10 @@
     "rest_days": 3
   },
   "博洛尼亚": {
-    "elo": 1613.4,
-    "attack": 0.6588,
-    "defense": 0.7413,
-    "form": 0.0561,
+    "elo": 1601.3,
+    "attack": 0.6298,
+    "defense": 0.7746,
+    "form": -0.2607,
     "injury": 0.0,
     "rest_days": 3
   },

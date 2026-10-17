@@ -1512,10 +1512,10 @@
     "rest_days": 3
   },
   "拜仁慕尼黑": {
-    "elo": 2172.5,
-    "attack": 1.0285,
-    "defense": 0.3936,
-    "form": 0.4395,
+    "elo": 2176.8,
+    "attack": 1.1393,
+    "defense": 0.3904,
+    "form": 0.6077,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1544,10 +1544,10 @@
     "rest_days": 3
   },
   "阿斯顿维拉": {
-    "elo": 1884.6,
-    "attack": 1.0107,
-    "defense": 0.6263,
-    "form": 0.4788,
+    "elo": 1895.1,
+    "attack": 0.9473,
+    "defense": 0.5652,
+    "form": 0.6352,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1632,10 +1632,10 @@
     "rest_days": 3
   },
   "纽卡斯尔联": {
-    "elo": 1694.0,
-    "attack": 0.6719,
-    "defense": 0.7725,
-    "form": -0.1565,
+    "elo": 1683.5,
+    "attack": 0.6064,
+    "defense": 0.7324,
+    "form": -0.4095,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1824,10 +1824,10 @@
     "rest_days": 3
   },
   "巴塞罗那": {
-    "elo": 1894.7,
-    "attack": 1.3933,
-    "defense": 0.571,
-    "form": 0.963,
+    "elo": 1923.3,
+    "attack": 1.4334,
+    "defense": 0.5857,
+    "form": 0.9741,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3416,10 +3416,10 @@
     "rest_days": 3
   },
   "皇家贝蒂斯": {
-    "elo": 1717.2,
-    "attack": 1.1571,
-    "defense": 1.0092,
-    "form": 0.5204,
+    "elo": 1688.6,
+    "attack": 1.1147,
+    "defense": 1.0867,
+    "form": 0.0643,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10248,10 +10248,10 @@
     "rest_days": 3
   },
   "莱比锡": {
-    "elo": 1647.2,
-    "attack": 0.9441,
-    "defense": 0.7015,
-    "form": 0.3787,
+    "elo": 1642.9,
+    "attack": 0.8872,
+    "defense": 0.8442,
+    "form": -0.0349,
     "injury": 0.0,
     "rest_days": 3
   },

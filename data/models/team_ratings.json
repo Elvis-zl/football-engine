@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1847.3,
-    "attack": 1.0159,
-    "defense": 0.578,
-    "form": -0.0379,
+    "elo": 1852.9,
+    "attack": 0.9872,
+    "defense": 0.5216,
+    "form": 0.2735,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2392,10 +2392,10 @@
     "rest_days": 3
   },
   "热那亚": {
-    "elo": 1524.1,
-    "attack": 0.5779,
-    "defense": 0.7945,
-    "form": -0.196,
+    "elo": 1518.5,
+    "attack": 0.5216,
+    "defense": 0.7874,
+    "form": -0.4372,
     "injury": 0.0,
     "rest_days": 3
   },

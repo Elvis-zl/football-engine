@@ -3552,10 +3552,10 @@
     "rest_days": 3
   },
   "斯特拉斯堡": {
-    "elo": 1614.3,
-    "attack": 0.9449,
-    "defense": 0.8925,
-    "form": -0.3509,
+    "elo": 1587.4,
+    "attack": 0.888,
+    "defense": 0.911,
+    "form": -0.5456,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9752,10 +9752,10 @@
     "rest_days": 3
   },
   "巴黎圣日耳曼": {
-    "elo": 1702.3,
-    "attack": 0.9661,
-    "defense": 0.693,
-    "form": 0.7479,
+    "elo": 1729.2,
+    "attack": 0.9775,
+    "defense": 0.6606,
+    "form": 0.8235,
     "injury": 0.0,
     "rest_days": 3
   },

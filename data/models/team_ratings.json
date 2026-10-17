@@ -1080,10 +1080,10 @@
     "rest_days": 3
   },
   "巴伦西亚": {
-    "elo": 1543.2,
-    "attack": 0.625,
-    "defense": 0.8373,
-    "form": -0.2914,
+    "elo": 1545.6,
+    "attack": 0.5641,
+    "defense": 0.7557,
+    "form": -0.204,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1800,10 +1800,10 @@
     "rest_days": 3
   },
   "毕尔巴鄂竞技": {
-    "elo": 1661.7,
-    "attack": 0.8095,
-    "defense": 0.6832,
-    "form": 0.0939,
+    "elo": 1659.3,
+    "attack": 0.7306,
+    "defense": 0.6166,
+    "form": 0.0657,
     "injury": 0.0,
     "rest_days": 3
   },

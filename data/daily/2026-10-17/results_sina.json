@@ -698,5 +698,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3762627",
+    "match_no": "周六029",
+    "home_team": "巴伦西亚",
+    "away_team": "毕尔巴鄂",
+    "home_score": 0,
+    "away_score": 0,
+    "half_home_score": 0,
+    "half_away_score": 0,
+    "league": "西甲",
+    "match_time": "2026-10-18 03:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 3.36,
+    "odds_draw": 2.8,
+    "odds_away": 2.11,
+    "corner_home": "2",
+    "corner_away": "6",
+    "yellow_home": "3",
+    "yellow_away": "3",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

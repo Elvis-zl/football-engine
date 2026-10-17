@@ -936,10 +936,10 @@
     "rest_days": 3
   },
   "费耶诺德": {
-    "elo": 1672.5,
-    "attack": 1.0576,
-    "defense": 0.7887,
-    "form": 0.536,
+    "elo": 1681.6,
+    "attack": 1.0952,
+    "defense": 0.8174,
+    "form": 0.6752,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4712,10 +4712,10 @@
     "rest_days": 3
   },
   "特尔斯达": {
-    "elo": 1446.8,
-    "attack": 0.7706,
-    "defense": 0.9267,
-    "form": -0.3024,
+    "elo": 1437.7,
+    "attack": 0.801,
+    "defense": 0.9771,
+    "form": -0.5117,
     "injury": 0.0,
     "rest_days": 3
   },

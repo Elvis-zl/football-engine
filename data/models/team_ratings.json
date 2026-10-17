@@ -496,10 +496,10 @@
     "rest_days": 3
   },
   "巴西国际": {
-    "elo": 1506.3,
-    "attack": 0.3179,
-    "defense": 0.4593,
-    "form": 0.1307,
+    "elo": 1492.3,
+    "attack": 0.2869,
+    "defense": 0.4849,
+    "form": -0.2085,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1720,10 +1720,10 @@
     "rest_days": 3
   },
   "弗洛西诺尼": {
-    "elo": 1418.9,
-    "attack": 0.7221,
-    "defense": 1.3417,
-    "form": -0.3045,
+    "elo": 1452.8,
+    "attack": 0.7924,
+    "defense": 1.2813,
+    "form": 0.0869,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1840,10 +1840,10 @@
     "rest_days": 3
   },
   "伯恩利": {
-    "elo": 1433.9,
-    "attack": 0.6157,
-    "defense": 1.1943,
-    "form": -0.5713,
+    "elo": 1418.0,
+    "attack": 0.5909,
+    "defense": 1.1482,
+    "form": -0.6999,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2344,10 +2344,10 @@
     "rest_days": 3
   },
   "萨索洛": {
-    "elo": 1545.6,
-    "attack": 0.7035,
-    "defense": 0.8662,
-    "form": -0.3642,
+    "elo": 1511.7,
+    "attack": 0.7053,
+    "defense": 0.9225,
+    "form": -0.5549,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5640,10 +5640,10 @@
     "rest_days": 3
   },
   "佐加顿斯": {
-    "elo": 1738.4,
-    "attack": 0.9029,
-    "defense": 0.1829,
-    "form": 0.8763,
+    "elo": 1754.6,
+    "attack": 0.8852,
+    "defense": 0.1651,
+    "form": 0.9134,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6032,10 +6032,10 @@
     "rest_days": 3
   },
   "米拉索尔": {
-    "elo": 1639.3,
-    "attack": 0.5286,
-    "defense": 0.4585,
-    "form": 0.1008,
+    "elo": 1653.3,
+    "attack": 0.5474,
+    "defense": 0.4138,
+    "form": 0.3706,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7864,10 +7864,10 @@
     "rest_days": 3
   },
   "布鲁马波": {
-    "elo": 1509.8,
-    "attack": 0.8248,
-    "defense": 0.7832,
-    "form": 0.153,
+    "elo": 1493.6,
+    "attack": 0.7444,
+    "defense": 0.7772,
+    "form": -0.1929,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11220,6 +11220,14 @@
     "attack": 0.9025,
     "defense": 0.9025,
     "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "伍尔弗": {
+    "elo": 1515.9,
+    "attack": 0.9729,
+    "defense": 0.9377,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }

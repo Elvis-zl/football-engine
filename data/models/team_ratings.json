@@ -2336,10 +2336,10 @@
     "rest_days": 3
   },
   "尤文图斯": {
-    "elo": 1755.6,
-    "attack": 1.123,
-    "defense": 0.7225,
-    "form": 0.3463,
+    "elo": 1702.6,
+    "attack": 1.0135,
+    "defense": 0.7576,
+    "form": -0.0576,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2384,10 +2384,10 @@
     "rest_days": 3
   },
   "拉齐奥": {
-    "elo": 1723.3,
-    "attack": 0.7656,
-    "defense": 0.603,
-    "form": 0.7281,
+    "elo": 1776.3,
+    "attack": 0.7965,
+    "defense": 0.5442,
+    "form": 0.8097,
     "injury": 0.0,
     "rest_days": 3
   },

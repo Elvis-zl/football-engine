@@ -1096,10 +1096,10 @@
     "rest_days": 3
   },
   "阿森纳": {
-    "elo": 2082.9,
-    "attack": 0.9815,
-    "defense": 0.3282,
-    "form": 0.9833,
+    "elo": 2087.9,
+    "attack": 0.921,
+    "defense": 0.2962,
+    "form": 0.9883,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2024,10 +2024,10 @@
     "rest_days": 3
   },
   "霍芬海姆": {
-    "elo": 1530.8,
-    "attack": 0.9158,
-    "defense": 1.1047,
-    "form": -0.7706,
+    "elo": 1553.3,
+    "attack": 0.8969,
+    "defense": 1.0322,
+    "form": -0.2394,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2136,10 +2136,10 @@
     "rest_days": 3
   },
   "门兴格拉德巴赫": {
-    "elo": 1615.2,
-    "attack": 0.996,
-    "defense": 1.1207,
-    "form": 0.1881,
+    "elo": 1592.7,
+    "attack": 0.9341,
+    "defense": 1.0818,
+    "form": -0.1683,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2288,10 +2288,10 @@
     "rest_days": 3
   },
   "诺丁汉森林": {
-    "elo": 1723.3,
-    "attack": 0.6682,
-    "defense": 0.6931,
-    "form": -0.4575,
+    "elo": 1718.3,
+    "attack": 0.6031,
+    "defense": 0.6607,
+    "form": -0.6202,
     "injury": 0.0,
     "rest_days": 3
   },

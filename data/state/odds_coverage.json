@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:41:48",
+  "generated_at": "2026-10-18T22:05:42",
   "total_matches": 1183,
   "no_kickoff_time": 0,
   "snapshots": {
@@ -9,8 +9,8 @@
     "dist": {
       "1": 233,
       "2": 314,
-      "3": 283,
-      "4": 144,
+      "3": 281,
+      "4": 146,
       "5": 64,
       "6": 39,
       "7": 31,
@@ -32,7 +32,7 @@
   "gap_hours": {
     "median": 3.9,
     "mean": 4.96,
-    "p90": 10.54
+    "p90": 10.53
   },
   "lead_to_kickoff_hours": {
     "median_last": 10.79,

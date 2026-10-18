@@ -133,5 +133,14 @@
     "away_team": "阿贾克斯",
     "half_home_score": 0,
     "half_away_score": 2
+  },
+  {
+    "match_id": "3747045",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "洛里昂",
+    "away_team": "摩纳哥",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]

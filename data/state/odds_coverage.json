@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:56:35",
+  "generated_at": "2026-10-18T01:42:27",
   "total_matches": 1165,
   "no_kickoff_time": 0,
   "snapshots": {
@@ -9,8 +9,8 @@
     "dist": {
       "1": 229,
       "2": 308,
-      "3": 279,
-      "4": 142,
+      "3": 278,
+      "4": 143,
       "5": 64,
       "6": 38,
       "7": 30,
@@ -20,8 +20,7 @@
       "11": 7,
       "12": 2,
       "13": 2,
-      "15": 1,
-      "16": 1
+      "16": 2
     }
   },
   "multi_snapshot": {
@@ -38,8 +37,8 @@
   "lead_to_kickoff_hours": {
     "median_last": 10.75,
     "p10_last": 2.54,
-    "p90_last": 20.06,
-    "median_first": 20.87
+    "p90_last": 19.29,
+    "median_first": 20.84
   },
   "closing_coverage": {
     "window_h": 2.0,

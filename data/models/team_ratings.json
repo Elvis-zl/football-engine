@@ -1224,18 +1224,18 @@
     "rest_days": 3
   },
   "格罗宁根": {
-    "elo": 1488.9,
-    "attack": 0.9595,
-    "defense": 0.9395,
-    "form": 0.1062,
+    "elo": 1469.8,
+    "attack": 0.9363,
+    "defense": 1.0238,
+    "form": -0.2257,
     "injury": 0.0,
     "rest_days": 3
   },
   "阿贾克斯": {
-    "elo": 1764.3,
-    "attack": 1.1854,
-    "defense": 0.5143,
-    "form": 0.4079,
+    "elo": 1783.4,
+    "attack": 1.2457,
+    "defense": 0.5345,
+    "form": 0.5855,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3384,10 +3384,10 @@
     "rest_days": 3
   },
   "阿拉维斯": {
-    "elo": 1593.9,
-    "attack": 0.6909,
-    "defense": 0.7103,
-    "form": -0.4027,
+    "elo": 1577.2,
+    "attack": 0.6587,
+    "defense": 0.7114,
+    "form": -0.5819,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10152,10 +10152,10 @@
     "rest_days": 3
   },
   "塞尔塔": {
-    "elo": 1514.0,
-    "attack": 0.5969,
-    "defense": 0.5645,
-    "form": -0.2979,
+    "elo": 1530.7,
+    "attack": 0.6091,
+    "defense": 0.5446,
+    "form": 0.0915,
     "injury": 0.0,
     "rest_days": 3
   },

@@ -656,10 +656,10 @@
     "rest_days": 3
   },
   "AC米兰": {
-    "elo": 1774.6,
-    "attack": 0.8636,
-    "defense": 0.4798,
-    "form": 0.5693,
+    "elo": 1784.2,
+    "attack": 0.885,
+    "defense": 0.5034,
+    "form": 0.6985,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2144,10 +2144,10 @@
     "rest_days": 3
   },
   "亚特兰大": {
-    "elo": 1693.2,
-    "attack": 0.7941,
-    "defense": 0.7371,
-    "form": -0.0542,
+    "elo": 1683.6,
+    "attack": 0.787,
+    "defense": 0.7708,
+    "form": -0.3379,
     "injury": 0.0,
     "rest_days": 3
   },

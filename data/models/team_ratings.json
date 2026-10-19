@@ -1312,10 +1312,10 @@
     "rest_days": 3
   },
   "蒙彼利埃": {
-    "elo": 1370.6,
-    "attack": 0.5337,
-    "defense": 1.0834,
-    "form": 0.0205,
+    "elo": 1428.3,
+    "attack": 0.5872,
+    "defense": 0.9778,
+    "form": 0.3143,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2376,10 +2376,10 @@
     "rest_days": 3
   },
   "都灵": {
-    "elo": 1551.1,
-    "attack": 0.6472,
-    "defense": 0.8168,
-    "form": 0.0881,
+    "elo": 1591.2,
+    "attack": 0.6897,
+    "defense": 0.7372,
+    "form": 0.3617,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2408,10 +2408,10 @@
     "rest_days": 3
   },
   "帕尔马": {
-    "elo": 1473.2,
-    "attack": 0.4543,
-    "defense": 0.7863,
-    "form": -0.3665,
+    "elo": 1433.1,
+    "attack": 0.41,
+    "defense": 0.8152,
+    "form": -0.5565,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6024,10 +6024,10 @@
     "rest_days": 3
   },
   "罗德兹": {
-    "elo": 1447.0,
-    "attack": 0.9229,
-    "defense": 1.1193,
-    "form": -0.1104,
+    "elo": 1389.3,
+    "attack": 0.8329,
+    "defense": 1.1157,
+    "form": -0.3773,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10848,10 +10848,10 @@
     "rest_days": 3
   },
   "Torino": {
-    "elo": 1513.0,
-    "attack": 0.9729,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1560.8,
+    "attack": 0.9836,
+    "defense": 0.8463,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11323,6 +11323,14 @@
     "elo": 1455.7,
     "attack": 0.9025,
     "defense": 1.0432,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "Parma": {
+    "elo": 1452.2,
+    "attack": 0.9025,
+    "defense": 1.0081,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3

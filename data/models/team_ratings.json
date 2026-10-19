@@ -2352,10 +2352,10 @@
     "rest_days": 3
   },
   "卡利亚里": {
-    "elo": 1576.1,
-    "attack": 0.6048,
-    "defense": 0.6696,
-    "form": 0.4794,
+    "elo": 1498.0,
+    "attack": 0.5458,
+    "defense": 0.7451,
+    "form": 0.0356,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5840,10 +5840,10 @@
     "rest_days": 3
   },
   "蒙扎": {
-    "elo": 1349.1,
-    "attack": 0.5346,
-    "defense": 1.0841,
-    "form": -0.3032,
+    "elo": 1427.2,
+    "attack": 0.6232,
+    "defense": 0.9784,
+    "form": 0.0878,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6520,10 +6520,10 @@
     "rest_days": 3
   },
   "代格福什": {
-    "elo": 1315.4,
-    "attack": 0.3715,
-    "defense": 0.6803,
-    "form": -0.3992,
+    "elo": 1301.7,
+    "attack": 0.3705,
+    "defense": 0.6843,
+    "form": -0.5794,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6568,10 +6568,10 @@
     "rest_days": 3
   },
   "卡尔马": {
-    "elo": 1430.3,
-    "attack": 0.5813,
-    "defense": 0.6889,
-    "form": -0.652,
+    "elo": 1444.0,
+    "attack": 0.595,
+    "defense": 0.6569,
+    "form": -0.1564,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11308,6 +11308,22 @@
     "attack": 0.9729,
     "defense": 0.9729,
     "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "Monza": {
+    "elo": 1544.3,
+    "attack": 1.0432,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "Cagliari": {
+    "elo": 1455.7,
+    "attack": 0.9025,
+    "defense": 1.0432,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   }

@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-19T01:45:07",
-  "total_matches": 1183,
+  "generated_at": "2026-10-19T16:49:47",
+  "total_matches": 1205,
   "no_kickoff_time": 0,
   "snapshots": {
-    "mean": 3.19,
+    "mean": 3.15,
     "median": 3,
     "max": 16,
     "dist": {
-      "1": 233,
-      "2": 312,
-      "3": 280,
-      "4": 144,
+      "1": 253,
+      "2": 311,
+      "3": 281,
+      "4": 146,
       "5": 65,
       "6": 40,
       "7": 34,
@@ -24,54 +24,55 @@
     }
   },
   "multi_snapshot": {
-    "n": 950,
-    "ratio": 0.803
+    "n": 952,
+    "ratio": 0.79
   },
-  "odds_actually_moved": 941,
-  "odds_flat": 242,
+  "odds_actually_moved": 943,
+  "odds_flat": 262,
   "gap_hours": {
     "median": 3.9,
-    "mean": 4.94,
-    "p90": 10.47
+    "mean": 4.98,
+    "p90": 10.62
   },
   "lead_to_kickoff_hours": {
-    "median_last": 10.79,
-    "p10_last": 2.58,
-    "p90_last": 21.27,
-    "median_first": 20.99
+    "median_last": 10.83,
+    "p10_last": 2.59,
+    "p90_last": 21.87,
+    "median_first": 21.25
   },
   "closing_coverage": {
     "window_h": 2.0,
     "n": 32,
-    "ratio": 0.027,
-    "not_started_yet": 1136
+    "ratio": 0.0266,
+    "not_started_yet": 1158
   },
   "near_close_coverage": {
     "window_h": 6.0,
     "n": 231,
-    "ratio": 0.1953
+    "ratio": 0.1917
   },
   "last_collection_day_offset": {
     "0": 469,
     "1": 704,
-    "2": 10
+    "2": 23,
+    "3": 9
   },
   "by_kickoff_hour": {
     "0": {
-      "n": 142,
-      "median_lead": 9.5
+      "n": 146,
+      "median_lead": 9.62
     },
     "1": {
       "n": 71,
       "median_lead": 9.58
     },
     "2": {
-      "n": 207,
+      "n": 209,
       "median_lead": 11.36
     },
     "3": {
-      "n": 209,
-      "median_lead": 12.16
+      "n": 222,
+      "median_lead": 12.44
     },
     "4": {
       "n": 4,
@@ -122,8 +123,8 @@
       "median_lead": 1.5
     },
     "18": {
-      "n": 95,
-      "median_lead": 2.78
+      "n": 98,
+      "median_lead": 2.82
     },
     "19": {
       "n": 33,

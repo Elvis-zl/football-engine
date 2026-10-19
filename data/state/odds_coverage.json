@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:37:17",
+  "generated_at": "2026-10-19T00:01:01",
   "total_matches": 1183,
   "no_kickoff_time": 0,
   "snapshots": {
@@ -53,9 +53,8 @@
   },
   "last_collection_day_offset": {
     "0": 469,
-    "1": 688,
-    "2": 16,
-    "3": 10
+    "1": 704,
+    "2": 10
   },
   "by_kickoff_hour": {
     "0": {

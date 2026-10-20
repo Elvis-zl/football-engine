@@ -1640,10 +1640,10 @@
     "rest_days": 3
   },
   "吉维森特": {
-    "elo": 1516.7,
-    "attack": 0.9343,
-    "defense": 0.9765,
-    "form": -0.4743,
+    "elo": 1541.4,
+    "attack": 0.9136,
+    "defense": 0.9165,
+    "form": -0.032,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1768,10 +1768,10 @@
     "rest_days": 3
   },
   "布拉加": {
-    "elo": 1664.9,
-    "attack": 0.6302,
-    "defense": 0.4667,
-    "form": -0.536,
+    "elo": 1640.2,
+    "attack": 0.6039,
+    "defense": 0.4916,
+    "form": -0.6752,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2232,10 +2232,10 @@
     "rest_days": 3
   },
   "赫塔费": {
-    "elo": 1609.4,
-    "attack": 0.6023,
-    "defense": 0.6696,
-    "form": 0.1088,
+    "elo": 1606.7,
+    "attack": 0.5788,
+    "defense": 0.6395,
+    "form": 0.0762,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2264,10 +2264,10 @@
     "rest_days": 3
   },
   "巴列卡诺": {
-    "elo": 1615.8,
-    "attack": 0.6913,
-    "defense": 0.7521,
-    "form": 0.0509,
+    "elo": 1618.5,
+    "attack": 0.6591,
+    "defense": 0.714,
+    "form": 0.0356,
     "injury": 0.0,
     "rest_days": 3
   },

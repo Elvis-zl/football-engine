@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:12:52",
+  "generated_at": "2026-10-20T18:58:17",
   "total_matches": 1231,
   "no_kickoff_time": 0,
   "snapshots": {
@@ -37,7 +37,7 @@
   "lead_to_kickoff_hours": {
     "median_last": 10.88,
     "p10_last": 2.64,
-    "p90_last": 23.28,
+    "p90_last": 23.05,
     "median_first": 21.37
   },
   "closing_coverage": {

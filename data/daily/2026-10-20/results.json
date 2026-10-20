@@ -34,5 +34,14 @@
     "away_team": "多特蒙德",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3760586",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "狼队",
+    "away_team": "朴茨茅斯",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]

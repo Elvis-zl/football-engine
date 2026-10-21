@@ -760,10 +760,10 @@
     "rest_days": 3
   },
   "曼彻斯特联": {
-    "elo": 1901.8,
-    "attack": 1.1567,
-    "defense": 0.8313,
-    "form": 0.147,
+    "elo": 1858.5,
+    "attack": 1.0791,
+    "defense": 0.891,
+    "form": -0.1971,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1376,10 +1376,10 @@
     "rest_days": 3
   },
   "里尔": {
-    "elo": 1685.8,
-    "attack": 0.6537,
-    "defense": 0.5814,
-    "form": -0.1243,
+    "elo": 1645.2,
+    "attack": 0.6603,
+    "defense": 0.6655,
+    "form": -0.387,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1728,10 +1728,10 @@
     "rest_days": 3
   },
   "科莫": {
-    "elo": 1823.0,
-    "attack": 0.9407,
-    "defense": 0.5445,
-    "form": 0.1958,
+    "elo": 1866.3,
+    "attack": 0.9897,
+    "defense": 0.5266,
+    "form": 0.4371,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2944,10 +2944,10 @@
     "rest_days": 3
   },
   "加拉塔萨雷": {
-    "elo": 1599.6,
-    "attack": 1.0059,
-    "defense": 1.3481,
-    "form": -0.6231,
+    "elo": 1640.2,
+    "attack": 1.0486,
+    "defense": 1.287,
+    "form": -0.1362,
     "injury": 0.0,
     "rest_days": 3
   },

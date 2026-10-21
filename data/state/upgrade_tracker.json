@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:14:46",
+  "generated_at": "2026-10-21T20:53:25",
   "schema": 2,
   "baseline_pre_upgrade": {
     "brier": 0.6172206898122067,

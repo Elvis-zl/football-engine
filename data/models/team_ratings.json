@@ -1800,10 +1800,10 @@
     "rest_days": 3
   },
   "毕尔巴鄂竞技": {
-    "elo": 1659.3,
-    "attack": 0.7306,
-    "defense": 0.6166,
-    "form": 0.0657,
+    "elo": 1627.0,
+    "attack": 0.6946,
+    "defense": 0.662,
+    "form": -0.254,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2256,10 +2256,10 @@
     "rest_days": 3
   },
   "莱万特": {
-    "elo": 1552.0,
-    "attack": 0.7545,
-    "defense": 0.9311,
-    "form": -0.2162,
+    "elo": 1584.3,
+    "attack": 0.7865,
+    "defense": 0.8755,
+    "form": 0.1487,
     "injury": 0.0,
     "rest_days": 3
   },

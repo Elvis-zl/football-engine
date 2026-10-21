@@ -123,5 +123,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3762581",
+    "match_no": "周三006",
+    "home_team": "莱万特",
+    "away_team": "毕尔巴鄂",
+    "home_score": 3,
+    "away_score": 1,
+    "half_home_score": 2,
+    "half_away_score": 0,
+    "league": "西甲",
+    "match_time": "2026-10-22 02:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 3.9,
+    "odds_draw": 3.21,
+    "odds_away": 1.78,
+    "corner_home": "3",
+    "corner_away": "9",
+    "yellow_home": "2",
+    "yellow_away": "1",
+    "red_home": "0",
+    "red_away": "1",
+    "source": "sina"
   }
 ]

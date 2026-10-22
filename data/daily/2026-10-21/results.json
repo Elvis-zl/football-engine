@@ -54,7 +54,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3838980",
+    "match_id": "周三004",
     "home_score": 4,
     "away_score": 1,
     "home_team": "科莫",
@@ -63,7 +63,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3839017",
+    "match_id": "周三005",
     "home_score": 2,
     "away_score": 4,
     "home_team": "里尔",
@@ -81,7 +81,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3838954",
+    "match_id": "周三008",
     "home_score": 3,
     "away_score": 1,
     "home_team": "阿斯顿维拉",
@@ -90,7 +90,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3838969",
+    "match_id": "周三009",
     "home_score": 1,
     "away_score": 0,
     "home_team": "贝蒂斯",
@@ -99,7 +99,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3838963",
+    "match_id": "周三010",
     "home_score": 2,
     "away_score": 2,
     "home_team": "拜仁慕尼黑",
@@ -117,12 +117,30 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3838977",
+    "match_id": "周三012",
     "home_score": 3,
     "away_score": 0,
     "home_team": "布鲁日",
     "away_team": "朗斯",
     "half_home_score": 1,
     "half_away_score": 0
+  },
+  {
+    "match_id": "周三007",
+    "home_score": 4,
+    "away_score": 1,
+    "home_team": "皇马",
+    "away_team": "莱红牛",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周三011",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "里斯本",
+    "away_team": "LASK林茨",
+    "half_home_score": 1,
+    "half_away_score": 1
   }
 ]

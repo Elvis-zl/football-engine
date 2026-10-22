@@ -680,10 +680,10 @@
     "rest_days": 3
   },
   "莱比锡红牛": {
-    "elo": 1737.0,
-    "attack": 1.2174,
-    "defense": 1.2029,
-    "form": -0.2725,
+    "elo": 1714.4,
+    "attack": 1.1339,
+    "defense": 1.2264,
+    "form": -0.4908,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3488,10 +3488,10 @@
     "rest_days": 3
   },
   "皇马": {
-    "elo": 1843.2,
-    "attack": 1.2107,
-    "defense": 0.602,
-    "form": 0.8123,
+    "elo": 1865.8,
+    "attack": 1.2334,
+    "defense": 0.5785,
+    "form": 0.8686,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3656,10 +3656,10 @@
     "rest_days": 3
   },
   "葡萄牙体育": {
-    "elo": 1723.4,
-    "attack": 1.0926,
-    "defense": 0.8032,
-    "form": -0.1384,
+    "elo": 1697.1,
+    "attack": 1.0564,
+    "defense": 0.8304,
+    "form": -0.3969,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5856,10 +5856,10 @@
     "rest_days": 3
   },
   "LASK林茨": {
-    "elo": 1523.5,
-    "attack": 1.0057,
-    "defense": 1.2858,
-    "form": -0.5738,
+    "elo": 1549.8,
+    "attack": 1.0132,
+    "defense": 1.2308,
+    "form": -0.1017,
     "injury": 0.0,
     "rest_days": 3
   },
